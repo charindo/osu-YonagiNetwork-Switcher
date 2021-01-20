@@ -1,0 +1,10 @@
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\bin\Debug\osu! YonagiNetwork Switcher.exe.config
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\bin\Debug\osu! YonagiNetwork Switcher.exe
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\bin\Debug\osu! YonagiNetwork Switcher.pdb
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\obj\Debug\osu! YonagiNetwork Switcher.csprojAssemblyReference.cache
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\obj\Debug\osu__YonagiNetwork_Switcher.Properties.Resources.resources
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\obj\Debug\osu! YonagiNetwork Switcher.csproj.GenerateResource.cache
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\obj\Debug\osu! YonagiNetwork Switcher.csproj.CoreCompileInputs.cache
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\obj\Debug\osu! YonagiNetwork Switcher.exe
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\obj\Debug\osu! YonagiNetwork Switcher.pdb
+C:\Users\charindo\source\repos\osu! YonagiNetwork Switcher\osu! YonagiNetwork Switcher\obj\Debug\osu__YonagiNetwork_Switcher.Form1.resources
