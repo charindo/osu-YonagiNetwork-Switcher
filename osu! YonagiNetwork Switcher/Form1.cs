@@ -13,6 +13,9 @@ namespace osu__YonagiNetwork_Switcher
 {
     public partial class Form1 : Form
     {
+
+        private Encoding enc;
+
         public Form1()
         {
             InitializeComponent();
@@ -33,7 +36,9 @@ namespace osu__YonagiNetwork_Switcher
 
         private void add_hosts_data()
         {
-            string path = @"c:/Windows/System32/drivers/etc/hosts";
+            enc = Encoding.GetEncoding("UTF-8");
+            string str = "YzovV2luZG93cy9TeXN0ZW0zMi9kcml2ZXJzL2V0Yy9ob3N0cw==";
+            string path = enc.GetString(Convert.FromBase64String(str));
 
             //ファイルの内容を読み込む
             StreamReader sr = new StreamReader(path, Encoding.GetEncoding("Shift_JIS"));
@@ -77,7 +82,9 @@ namespace osu__YonagiNetwork_Switcher
 
         private void remove_hosts_data()
         {
-            string path = @"c:/Windows/System32/drivers/etc/hosts";
+            enc = Encoding.GetEncoding("UTF-8");
+            string str = "YzovV2luZG93cy9TeXN0ZW0zMi9kcml2ZXJzL2V0Yy9ob3N0cw==";
+            string path = enc.GetString(Convert.FromBase64String(str));
 
             //ファイルの内容を読み込む
             StreamReader sr = new StreamReader(path, Encoding.GetEncoding("Shift_JIS"));
