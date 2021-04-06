@@ -50,7 +50,7 @@ namespace osu__YonagiNetwork_Switcher
             sr.Close();
 
             // 文字列置換
-            string host = "121.107.10.216";
+            string host = "160.251.72.25";
             s += "\r\n" + host + " osu.ppy.sh";
             s += "\r\n" + host + " c.ppy.sh";
             s += "\r\n" + host + " c1.ppy.sh";
@@ -96,7 +96,7 @@ namespace osu__YonagiNetwork_Switcher
             sr.Close();
 
             // 文字列置換
-            string host = "121.107.10.216";
+            string host = "160.251.72.25";
             s = s.Replace("\r\n"+host+" osu.ppy.sh", "");
             s = s.Replace("\r\n"+host+" c.ppy.sh", "");
             s = s.Replace("\r\n"+host+" c1.ppy.sh", "");
